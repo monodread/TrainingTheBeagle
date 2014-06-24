@@ -13,7 +13,7 @@ JACK comes in two versions, 1 and 2. For our purposes we will use the jackdmp im
 
 ### Connecting a USB Soundcard
 
-We recommend using a USB soundcard, as shown [here](http://www.hermann-uwe.de/files/images/3d_sound_usb.preview.jpg). This card is mono in, stereo out, and while the audio quality is not professional level, it is satisfactory for most purposes. Make sure to connect the soundcard before powering up, as hotplugging is not supported. Also, as the soundcard is powered by the USB bus, be sure power your Beaglebone from an external supply in order to provide adequate current (i.e. 2A).
+We recommend using a USB soundcard, as shown [here](http://www.hermann-uwe.de/files/images/3d_sound_usb.preview.jpg). This card is mono in, stereo out, and while the audio quality is not professional level, it is satisfactory for most purposes. Make sure to connect the soundcard before powering up, as hotplugging is not supported. Also, as the soundcard is powered by the USB bus, be sure to power your Beaglebone from an external supply in order to provide adequate current (i.e. 2A).
 
 ### Installation
 
